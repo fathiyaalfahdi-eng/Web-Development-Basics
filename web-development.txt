@@ -8,3 +8,7 @@ Frontend refers to everything the user sees and interacts with in a website. It 
 
 Backend Development
 The backend is the server side of a website that handles data, logic, and processing. It communicates with the frontend to deliver the information users request. Backend developers use languages like Python, PHP, and Node.js. It ensures the website runs securely and efficiently.
+
+Database
+A database stores all the information a website needs, such as user data and content. It allows the backend to read, update, and manage this data. Popular databases include MySQL, MongoDB, and PostgreSQL. Databases help keep information organized and accessible.
+
