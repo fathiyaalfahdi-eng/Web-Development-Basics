@@ -1,0 +1,8 @@
+Web development
+
+Web development is the process of building and maintaining websites and web applications that run on the internet.
+It involves everything from designing how a site looks to creating how it works behind the scenes.
+
+Frontend Development
+Frontend refers to everything the user sees and interacts with in a website. It includes layout, colors, buttons, and text. Developers use technologies like HTML, CSS, and JavaScript to build the frontend. The goal is to create a responsive and user-friendly interface.
+
