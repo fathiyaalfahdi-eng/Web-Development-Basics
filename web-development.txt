@@ -12,3 +12,5 @@ The backend is the server side of a website that handles data, logic, and proces
 Database
 A database stores all the information a website needs, such as user data and content. It allows the backend to read, update, and manage this data. Popular databases include MySQL, MongoDB, and PostgreSQL. Databases help keep information organized and accessible.
 
+Conclusion
+Web development brings together frontend, backend, and databases to create complete and functional websites. Understanding each part helps developers build better web applications.
